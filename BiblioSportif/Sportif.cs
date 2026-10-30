@@ -14,8 +14,7 @@ namespace BiblioSportif
         private string codePostal;
         private List<Pratique> pratiques;
 
-        // Le sport et le niveau ne sont plus dans le sportif :
-        // ils sont dans la liste de ses pratiques (un sportif peut en avoir plusieurs)
+       
         public Sportif(int id, string nom, string prenom, DateTime dateNais, string rue, string ville, string codePostal)
         {
             this.id = id;
@@ -50,7 +49,7 @@ namespace BiblioSportif
             return false;
         }
 
-        // Texte résumé : "Natation (Avancé), Tennis (Confirmé)"
+     
         public string ResumeSports()
         {
             string resume = "";

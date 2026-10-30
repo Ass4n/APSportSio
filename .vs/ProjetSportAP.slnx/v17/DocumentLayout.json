@@ -3,8 +3,20 @@
   "WorkspaceRootPath": "C:\\Users\\ludop\\Desktop\\ProjetSportAP\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{4001A750-3E40-4681-87C5-F4C50166950E}|APProjetSport\\APProjetSport.csproj|C:\\Users\\ludop\\Desktop\\ProjetSportAP\\approjetsport\\agestion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4001A750-3E40-4681-87C5-F4C50166950E}|APProjetSport\\APProjetSport.csproj|solutionrelative:approjetsport\\agestion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{FD0FB598-F54A-456D-BD0F-41E750B45E1F}|BiblioSportif\\BiblioSportif.csproj|C:\\Users\\ludop\\Desktop\\ProjetSportAP\\bibliosportif\\sportif.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FD0FB598-F54A-456D-BD0F-41E750B45E1F}|BiblioSportif\\BiblioSportif.csproj|solutionrelative:bibliosportif\\sportif.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FD0FB598-F54A-456D-BD0F-41E750B45E1F}|BiblioSportif\\BiblioSportif.csproj|C:\\Users\\ludop\\Desktop\\ProjetSportAP\\BiblioSportif\\Pratique.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FD0FB598-F54A-456D-BD0F-41E750B45E1F}|BiblioSportif\\BiblioSportif.csproj|solutionrelative:BiblioSportif\\Pratique.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FD0FB598-F54A-456D-BD0F-41E750B45E1F}|BiblioSportif\\BiblioSportif.csproj|C:\\Users\\ludop\\Desktop\\ProjetSportAP\\bibliosportif\\sport.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FD0FB598-F54A-456D-BD0F-41E750B45E1F}|BiblioSportif\\BiblioSportif.csproj|solutionrelative:bibliosportif\\sport.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4001A750-3E40-4681-87C5-F4C50166950E}|APProjetSport\\APProjetSport.csproj|C:\\Users\\ludop\\Desktop\\ProjetSportAP\\approjetsport\\formconnexion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4001A750-3E40-4681-87C5-F4C50166950E}|APProjetSport\\APProjetSport.csproj|solutionrelative:approjetsport\\formconnexion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{4001A750-3E40-4681-87C5-F4C50166950E}|APProjetSport\\APProjetSport.csproj|C:\\Users\\ludop\\Desktop\\ProjetSportAP\\approjetsport\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -15,28 +27,16 @@
       "RelativeMoniker": "D:0:0:{DA30F595-3AF2-4CB2-A188-3EB2260044D9}|GestionSportif\\GestionSportif.csproj|solutionrelative:gestionsportif\\gutilisateur.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{FD0FB598-F54A-456D-BD0F-41E750B45E1F}|BiblioSportif\\BiblioSportif.csproj|C:\\Users\\ludop\\Desktop\\ProjetSportAP\\bibliosportif\\sport.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FD0FB598-F54A-456D-BD0F-41E750B45E1F}|BiblioSportif\\BiblioSportif.csproj|solutionrelative:bibliosportif\\sport.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{4001A750-3E40-4681-87C5-F4C50166950E}|APProjetSport\\APProjetSport.csproj|c:\\users\\ludop\\desktop\\projetsportap\\approjetsport\\agestion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4001A750-3E40-4681-87C5-F4C50166950E}|APProjetSport\\APProjetSport.csproj|solutionrelative:approjetsport\\agestion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{FD0FB598-F54A-456D-BD0F-41E750B45E1F}|BiblioSportif\\BiblioSportif.csproj|C:\\Users\\ludop\\Desktop\\ProjetSportAP\\bibliosportif\\niveau.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{FD0FB598-F54A-456D-BD0F-41E750B45E1F}|BiblioSportif\\BiblioSportif.csproj|solutionrelative:bibliosportif\\niveau.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{FD0FB598-F54A-456D-BD0F-41E750B45E1F}|BiblioSportif\\BiblioSportif.csproj|C:\\Users\\ludop\\Desktop\\ProjetSportAP\\BiblioSportif\\Pratique.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FD0FB598-F54A-456D-BD0F-41E750B45E1F}|BiblioSportif\\BiblioSportif.csproj|solutionrelative:BiblioSportif\\Pratique.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{FD0FB598-F54A-456D-BD0F-41E750B45E1F}|BiblioSportif\\BiblioSportif.csproj|c:\\users\\ludop\\desktop\\projetsportap\\bibliosportif\\sportif.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FD0FB598-F54A-456D-BD0F-41E750B45E1F}|BiblioSportif\\BiblioSportif.csproj|solutionrelative:bibliosportif\\sportif.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{DA30F595-3AF2-4CB2-A188-3EB2260044D9}|GestionSportif\\GestionSportif.csproj|C:\\Users\\ludop\\Desktop\\ProjetSportAP\\gestionsportif\\gsportif.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{DA30F595-3AF2-4CB2-A188-3EB2260044D9}|GestionSportif\\GestionSportif.csproj|solutionrelative:gestionsportif\\gsportif.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4001A750-3E40-4681-87C5-F4C50166950E}|APProjetSport\\APProjetSport.csproj|C:\\Users\\ludop\\Desktop\\ProjetSportAP\\approjetsport\\formconnexion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4001A750-3E40-4681-87C5-F4C50166950E}|APProjetSport\\APProjetSport.csproj|solutionrelative:approjetsport\\formconnexion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{4001A750-3E40-4681-87C5-F4C50166950E}|APProjetSport\\APProjetSport.csproj|C:\\Users\\ludop\\Desktop\\ProjetSportAP\\approjetsport\\agestion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
@@ -78,11 +78,11 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 11,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 8,
               "Title": "GSportif.cs",
               "DocumentMoniker": "C:\\Users\\ludop\\Desktop\\ProjetSportAP\\GestionSportif\\GSportif.cs",
               "RelativeDocumentMoniker": "GestionSportif\\GSportif.cs",
@@ -90,8 +90,7 @@
               "RelativeToolTip": "GestionSportif\\GSportif.cs",
               "ViewState": "AgIAABkAAAAAAAAAAAAswJ0AAAAIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-09-21T18:57:40.413Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-09-21T18:57:40.413Z"
             },
             {
               "$type": "Document",
@@ -107,33 +106,33 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 6,
               "Title": "AGestion.cs",
               "DocumentMoniker": "C:\\Users\\ludop\\Desktop\\ProjetSportAP\\APProjetSport\\AGestion.cs",
               "RelativeDocumentMoniker": "APProjetSport\\AGestion.cs",
               "ToolTip": "C:\\Users\\ludop\\Desktop\\ProjetSportAP\\APProjetSport\\AGestion.cs",
               "RelativeToolTip": "APProjetSport\\AGestion.cs",
-              "ViewState": "AgIAAJcAAAAAAAAAAAAzwB8AAAAHAAAAAAAAAA==",
+              "ViewState": "AgIAAHoAAAAAAAAAAAAmwFsBAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-09-21T18:57:58.632Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 5,
               "Title": "GUtilisateur.cs",
               "DocumentMoniker": "C:\\Users\\ludop\\Desktop\\ProjetSportAP\\GestionSportif\\GUtilisateur.cs",
               "RelativeDocumentMoniker": "GestionSportif\\GUtilisateur.cs",
               "ToolTip": "C:\\Users\\ludop\\Desktop\\ProjetSportAP\\GestionSportif\\GUtilisateur.cs",
               "RelativeToolTip": "GestionSportif\\GUtilisateur.cs",
-              "ViewState": "AgIAABkAAAAAAAAAAAAiwBUAAAANAAAAAAAAAA==",
+              "ViewState": "AgIAABkAAAAAAAAAAAA2wBUAAAANAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-10-10T18:53:42.591Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 4,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\ludop\\Desktop\\ProjetSportAP\\APProjetSport\\Program.cs",
               "RelativeDocumentMoniker": "APProjetSport\\Program.cs",
@@ -146,13 +145,13 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 3,
               "Title": "FormConnexion.cs",
               "DocumentMoniker": "C:\\Users\\ludop\\Desktop\\ProjetSportAP\\APProjetSport\\FormConnexion.cs",
               "RelativeDocumentMoniker": "APProjetSport\\FormConnexion.cs",
               "ToolTip": "C:\\Users\\ludop\\Desktop\\ProjetSportAP\\APProjetSport\\FormConnexion.cs",
               "RelativeToolTip": "APProjetSport\\FormConnexion.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAzAAAAAAAAAA==",
+              "ViewState": "AgIAAAwAAAAAAAAAAAA5wAoAAAAzAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-10-12T19:34:23.192Z",
               "EditorCaption": ""
@@ -182,7 +181,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 7,
               "Title": "Niveau.cs",
               "DocumentMoniker": "C:\\Users\\ludop\\Desktop\\ProjetSportAP\\BiblioSportif\\Niveau.cs",
               "RelativeDocumentMoniker": "BiblioSportif\\Niveau.cs",
@@ -195,7 +194,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 1,
               "Title": "Pratique.cs",
               "DocumentMoniker": "C:\\Users\\ludop\\Desktop\\ProjetSportAP\\BiblioSportif\\Pratique.cs",
               "RelativeDocumentMoniker": "BiblioSportif\\Pratique.cs",
@@ -208,7 +207,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 2,
               "Title": "Sport.cs",
               "DocumentMoniker": "C:\\Users\\ludop\\Desktop\\ProjetSportAP\\BiblioSportif\\Sport.cs",
               "RelativeDocumentMoniker": "BiblioSportif\\Sport.cs",
@@ -221,13 +220,13 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 0,
               "Title": "Sportif.cs",
               "DocumentMoniker": "C:\\Users\\ludop\\Desktop\\ProjetSportAP\\BiblioSportif\\Sportif.cs",
               "RelativeDocumentMoniker": "BiblioSportif\\Sportif.cs",
               "ToolTip": "C:\\Users\\ludop\\Desktop\\ProjetSportAP\\BiblioSportif\\Sportif.cs",
               "RelativeToolTip": "BiblioSportif\\Sportif.cs",
-              "ViewState": "AgIAACMAAAAAAAAAAAA8wAEAAAAhAAAAAAAAAA==",
+              "ViewState": "AgIAACMAAAAAAAAAAAAuwDMAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-09-21T18:57:37.855Z",
               "EditorCaption": ""
@@ -289,8 +288,7 @@
               "RelativeToolTip": "APProjetSport\\AGestion.Designer.cs",
               "ViewState": "AgIAAIwBAAAAAAAAAAAgwAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-10-09T17:22:11.472Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-10-09T17:22:11.472Z"
             }
           ]
         }

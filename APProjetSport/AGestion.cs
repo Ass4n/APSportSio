@@ -345,7 +345,7 @@ namespace APProjetSport
             }
         }
 
-        // ---- MODIFIER ----
+     
         private void btnModifier_Click(object sender, EventArgs e)
         {
             if (sportifSelectionne == null)
