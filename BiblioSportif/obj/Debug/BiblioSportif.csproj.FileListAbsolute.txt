@@ -1,0 +1,12 @@
+F:\AP à rendre 13-10-2026\ProjetSportAP\BiblioSportif\bin\Debug\BiblioSportif.dll
+F:\AP à rendre 13-10-2026\ProjetSportAP\BiblioSportif\bin\Debug\BiblioSportif.pdb
+F:\AP à rendre 13-10-2026\ProjetSportAP\BiblioSportif\obj\Debug\BiblioSportif.csproj.AssemblyReference.cache
+F:\AP à rendre 13-10-2026\ProjetSportAP\BiblioSportif\obj\Debug\BiblioSportif.csproj.CoreCompileInputs.cache
+F:\AP à rendre 13-10-2026\ProjetSportAP\BiblioSportif\obj\Debug\BiblioSportif.dll
+F:\AP à rendre 13-10-2026\ProjetSportAP\BiblioSportif\obj\Debug\BiblioSportif.pdb
+C:\Users\ludop\Desktop\ProjetSportAP\BiblioSportif\obj\Debug\BiblioSportif.csproj.AssemblyReference.cache
+C:\Users\ludop\Desktop\ProjetSportAP\BiblioSportif\obj\Debug\BiblioSportif.csproj.CoreCompileInputs.cache
+C:\Users\ludop\Desktop\ProjetSportAP\BiblioSportif\obj\Debug\BiblioSportif.dll
+C:\Users\ludop\Desktop\ProjetSportAP\BiblioSportif\obj\Debug\BiblioSportif.pdb
+C:\Users\ludop\Desktop\ProjetSportAP\BiblioSportif\bin\Debug\BiblioSportif.dll
+C:\Users\ludop\Desktop\ProjetSportAP\BiblioSportif\bin\Debug\BiblioSportif.pdb

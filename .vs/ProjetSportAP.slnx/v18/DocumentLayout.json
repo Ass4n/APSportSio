@@ -1,0 +1,123 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "F:\\AP \u00E0 rendre 13-10-2026\\ProjetSportAP\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4001A750-3E40-4681-87C5-F4C50166950E}|APProjetSport\\APProjetSport.csproj|f:\\ap \u00E0 rendre 13-10-2026\\projetsportap\\approjetsport\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4001A750-3E40-4681-87C5-F4C50166950E}|APProjetSport\\APProjetSport.csproj|solutionrelative:approjetsport\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FD0FB598-F54A-456D-BD0F-41E750B45E1F}|BiblioSportif\\BiblioSportif.csproj|F:\\AP \u00E0 rendre 13-10-2026\\ProjetSportAP\\bibliosportif\\sportif.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FD0FB598-F54A-456D-BD0F-41E750B45E1F}|BiblioSportif\\BiblioSportif.csproj|solutionrelative:bibliosportif\\sportif.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DA30F595-3AF2-4CB2-A188-3EB2260044D9}|GestionSportif\\GestionSportif.csproj|F:\\AP \u00E0 rendre 13-10-2026\\ProjetSportAP\\gestionsportif\\gsportif.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DA30F595-3AF2-4CB2-A188-3EB2260044D9}|GestionSportif\\GestionSportif.csproj|solutionrelative:gestionsportif\\gsportif.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DA30F595-3AF2-4CB2-A188-3EB2260044D9}|GestionSportif\\GestionSportif.csproj|F:\\AP \u00E0 rendre 13-10-2026\\ProjetSportAP\\gestionsportif\\connexionmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DA30F595-3AF2-4CB2-A188-3EB2260044D9}|GestionSportif\\GestionSportif.csproj|solutionrelative:gestionsportif\\connexionmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4001A750-3E40-4681-87C5-F4C50166950E}|APProjetSport\\APProjetSport.csproj|F:\\AP \u00E0 rendre 13-10-2026\\ProjetSportAP\\approjetsport\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4001A750-3E40-4681-87C5-F4C50166950E}|APProjetSport\\APProjetSport.csproj|solutionrelative:approjetsport\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4001A750-3E40-4681-87C5-F4C50166950E}|APProjetSport\\APProjetSport.csproj|F:\\AP \u00E0 rendre 13-10-2026\\ProjetSportAP\\approjetsport\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{4001A750-3E40-4681-87C5-F4C50166950E}|APProjetSport\\APProjetSport.csproj|solutionrelative:approjetsport\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "F:\\AP \u00E0 rendre 13-10-2026\\ProjetSportAP\\APProjetSport\\Form1.cs",
+              "RelativeDocumentMoniker": "APProjetSport\\Form1.cs",
+              "ToolTip": "F:\\AP \u00E0 rendre 13-10-2026\\ProjetSportAP\\APProjetSport\\Form1.cs",
+              "RelativeToolTip": "APProjetSport\\Form1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACAAAABHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-08T14:58:02.237Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "GSportif.cs",
+              "DocumentMoniker": "F:\\AP \u00E0 rendre 13-10-2026\\ProjetSportAP\\GestionSportif\\GSportif.cs",
+              "RelativeDocumentMoniker": "GestionSportif\\GSportif.cs",
+              "ToolTip": "F:\\AP \u00E0 rendre 13-10-2026\\ProjetSportAP\\GestionSportif\\GSportif.cs",
+              "RelativeToolTip": "GestionSportif\\GSportif.cs",
+              "ViewState": "AgIAABwAAAAAAAAAAAAgwBYAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-15T12:57:28.613Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "F:\\AP \u00E0 rendre 13-10-2026\\ProjetSportAP\\APProjetSport\\Form1.cs",
+              "RelativeDocumentMoniker": "APProjetSport\\Form1.cs",
+              "ToolTip": "F:\\AP \u00E0 rendre 13-10-2026\\ProjetSportAP\\APProjetSport\\Form1.cs [Design]",
+              "RelativeToolTip": "APProjetSport\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-29T14:38:13.441Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "F:\\AP \u00E0 rendre 13-10-2026\\ProjetSportAP\\APProjetSport\\Program.cs",
+              "RelativeDocumentMoniker": "APProjetSport\\Program.cs",
+              "ToolTip": "F:\\AP \u00E0 rendre 13-10-2026\\ProjetSportAP\\APProjetSport\\Program.cs",
+              "RelativeToolTip": "APProjetSport\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-15T12:28:21.183Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Sportif.cs",
+              "DocumentMoniker": "F:\\AP \u00E0 rendre 13-10-2026\\ProjetSportAP\\BiblioSportif\\Sportif.cs",
+              "RelativeDocumentMoniker": "BiblioSportif\\Sportif.cs",
+              "ToolTip": "F:\\AP \u00E0 rendre 13-10-2026\\ProjetSportAP\\BiblioSportif\\Sportif.cs",
+              "RelativeToolTip": "BiblioSportif\\Sportif.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAYwCkAAAA7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-15T12:29:51.108Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ConnexionManager.cs",
+              "DocumentMoniker": "F:\\AP \u00E0 rendre 13-10-2026\\ProjetSportAP\\GestionSportif\\ConnexionManager.cs",
+              "RelativeDocumentMoniker": "GestionSportif\\ConnexionManager.cs",
+              "ToolTip": "F:\\AP \u00E0 rendre 13-10-2026\\ProjetSportAP\\GestionSportif\\ConnexionManager.cs",
+              "RelativeToolTip": "GestionSportif\\ConnexionManager.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-15T13:00:56.683Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

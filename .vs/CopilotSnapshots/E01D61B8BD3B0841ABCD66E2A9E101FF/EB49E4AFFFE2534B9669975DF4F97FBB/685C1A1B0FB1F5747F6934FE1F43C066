@@ -1,0 +1,140 @@
+﻿using BiblioSportif;
+using GestionSportif;
+using MySql.Data.MySqlClient;
+using System;
+using System.Collections.Generic;
+using System.ComponentModel;
+using System.Configuration;
+using System.Data;
+using System.Drawing;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+using System.Windows.Forms;
+
+namespace APProjetSport
+{
+    public partial class Form1 : Form
+    {
+        
+        private List<Sportif> tousLesSportifs = new List<Sportif>();
+
+        public Form1()
+        {
+            InitializeComponent();
+        }
+
+
+
+        private void listResultat_SelectedIndexChanged(object sender, EventArgs e)
+        {
+
+        }
+
+        private void CbListeDeroulante_SelectedIndexChanged(object sender, EventArgs e)
+        {
+
+        }
+
+        private void Form1_Load(object sender, EventArgs e)
+        {
+            listResultat.View = View.Details;
+            listResultat.FullRowSelect = true;
+            listResultat.GridLines = true;
+
+            listResultat.Columns.Clear();
+            listResultat.Columns.Add("Nom", 100);
+            listResultat.Columns.Add("Prénom", 100);
+            listResultat.Columns.Add("Date de naissance", 100);
+            listResultat.Columns.Add("Rue", 120);
+            listResultat.Columns.Add("Ville", 100);
+            listResultat.Columns.Add("Code postal", 80);
+            listResultat.Columns.Add("Niveau", 100);
+            listResultat.Columns.Add("Sport", 100);
+
+            // Récupération unique des données
+            tousLesSportifs = GSportif.GetAll();
+
+            // Remplissage de la ListView par défaut (boucle simple)
+            listResultat.Items.Clear();
+            for (int i = 0; i < tousLesSportifs.Count; i++)
+            {
+                Sportif sportifs = tousLesSportifs[i];
+
+                ListViewItem item = new ListViewItem(sportifs.Nom);
+                item.SubItems.Add(sportifs.Prenom);
+                item.SubItems.Add(sportifs.DateNais.ToShortDateString());
+                item.SubItems.Add(sportifs.Rue);
+                item.SubItems.Add(sportifs.Ville);
+                item.SubItems.Add(sportifs.CodePostal);
+                item.SubItems.Add(sportifs.NivExpercience);
+                item.SubItems.Add(sportifs.NomSport);
+
+                listResultat.Items.Add(item);
+            }
+
+
+        }
+
+        private void AfficherResultats(List<Sportif> sportifs)
+        {
+            listResultat.Items.Clear();
+            for (int i = 0; i < sportifs.Count; i++)
+            {
+                Sportif sportif = sportifs[i];
+
+                ListViewItem item = new ListViewItem(sportif.Nom);
+                item.SubItems.Add(sportif.Prenom);
+                item.SubItems.Add(sportif.DateNais.ToShortDateString());
+                item.SubItems.Add(sportif.Rue);
+                item.SubItems.Add(sportif.Ville);
+                item.SubItems.Add(sportif.CodePostal);
+                item.SubItems.Add(sportif.NivExpercience);
+                item.SubItems.Add(sportif.NomSport);
+
+                listResultat.Items.Add(item);
+            }
+        }
+
+        private void textZoneRecherchee_TextChanged(object sender, EventArgs e)
+        {
+            string recherche = textZoneRecherchee.Text;
+
+        }
+
+        private void BtnRechercher_Click(object sender, EventArgs e)
+        {
+            string motRecherche = textZoneRecherchee.Text.Trim().ToLower();
+
+            // Si le champ est vide, on réaffiche tout
+            if (motRecherche == "")
+            {
+                AfficherResultats(tousLesSportifs);
+                return;
+            }
+
+            List<Sportif> resultats = new List<Sportif>();
+
+            for (int i = 0; i < tousLesSportifs.Count; i++)
+            {
+                Sportif sportif = tousLesSportifs[i];
+
+                bool correspond = sportif.Nom.ToLower().Contains(motRecherche)
+                                || sportif.Prenom.ToLower().Contains(motRecherche)
+                                || sportif.Ville.ToLower().Contains(motRecherche)
+                                || sportif.NivExpercience.ToLower().Contains(motRecherche)
+                                || sportif.NomSport.ToLower().Contains(motRecherche);
+
+                if (correspond)
+                {
+                    resultats.Add(sportif);
+                }
+            }
+
+            AfficherResultats(resultats);
+        }
+    }
+    
+}
+
+

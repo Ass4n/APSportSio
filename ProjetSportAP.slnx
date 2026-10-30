@@ -1,0 +1,5 @@
+<Solution>
+  <Project Path="APProjetSport/APProjetSport.csproj" Id="4001a750-3e40-4681-87c5-f4c50166950e" />
+  <Project Path="BiblioSportif/BiblioSportif.csproj" Id="fd0fb598-f54a-456d-bd0f-41e750b45e1f" />
+  <Project Path="GestionSportif/GestionSportif.csproj" Id="da30f595-3af2-4cb2-a188-3eb2260044d9" />
+</Solution>

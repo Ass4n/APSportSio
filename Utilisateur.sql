@@ -1,0 +1,1 @@
+INSERT INTO Utilisateur (login, mdp) VALUES ('admin', SHA2('admin123', 256));

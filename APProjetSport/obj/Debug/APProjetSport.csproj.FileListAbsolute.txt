@@ -1,0 +1,133 @@
+C:\Users\nludop\source\repos\ProjetSportAP\APProjetSport\bin\Debug\APProjetSport.exe.config
+C:\Users\nludop\source\repos\ProjetSportAP\APProjetSport\bin\Debug\APProjetSport.exe
+C:\Users\nludop\source\repos\ProjetSportAP\APProjetSport\bin\Debug\APProjetSport.pdb
+C:\Users\nludop\source\repos\ProjetSportAP\APProjetSport\bin\Debug\BouncyCastle.Cryptography.dll
+C:\Users\nludop\source\repos\ProjetSportAP\APProjetSport\bin\Debug\Google.Protobuf.dll
+C:\Users\nludop\source\repos\ProjetSportAP\APProjetSport\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\nludop\source\repos\ProjetSportAP\APProjetSport\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\nludop\source\repos\ProjetSportAP\APProjetSport\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\nludop\source\repos\ProjetSportAP\APProjetSport\bin\Debug\MySql.Data.dll
+C:\Users\nludop\source\repos\ProjetSportAP\APProjetSport\bin\Debug\System.Buffers.dll
+C:\Users\nludop\source\repos\ProjetSportAP\APProjetSport\bin\Debug\System.Configuration.ConfigurationManager.dll
+C:\Users\nludop\source\repos\ProjetSportAP\APProjetSport\bin\Debug\System.IO.Pipelines.dll
+C:\Users\nludop\source\repos\ProjetSportAP\APProjetSport\bin\Debug\System.Memory.dll
+C:\Users\nludop\source\repos\ProjetSportAP\APProjetSport\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\nludop\source\repos\ProjetSportAP\APProjetSport\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\nludop\source\repos\ProjetSportAP\APProjetSport\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\nludop\source\repos\ProjetSportAP\APProjetSport\bin\Debug\ZstdSharp.dll
+C:\Users\nludop\source\repos\ProjetSportAP\APProjetSport\bin\Debug\BouncyCastle.Cryptography.xml
+C:\Users\nludop\source\repos\ProjetSportAP\APProjetSport\bin\Debug\Google.Protobuf.pdb
+C:\Users\nludop\source\repos\ProjetSportAP\APProjetSport\bin\Debug\Google.Protobuf.xml
+C:\Users\nludop\source\repos\ProjetSportAP\APProjetSport\bin\Debug\K4os.Compression.LZ4.xml
+C:\Users\nludop\source\repos\ProjetSportAP\APProjetSport\bin\Debug\K4os.Compression.LZ4.Streams.xml
+C:\Users\nludop\source\repos\ProjetSportAP\APProjetSport\bin\Debug\K4os.Hash.xxHash.xml
+C:\Users\nludop\source\repos\ProjetSportAP\APProjetSport\bin\Debug\MySql.Data.xml
+C:\Users\nludop\source\repos\ProjetSportAP\APProjetSport\bin\Debug\System.Buffers.xml
+C:\Users\nludop\source\repos\ProjetSportAP\APProjetSport\bin\Debug\System.Configuration.ConfigurationManager.xml
+C:\Users\nludop\source\repos\ProjetSportAP\APProjetSport\bin\Debug\System.IO.Pipelines.xml
+C:\Users\nludop\source\repos\ProjetSportAP\APProjetSport\bin\Debug\System.Memory.xml
+C:\Users\nludop\source\repos\ProjetSportAP\APProjetSport\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\nludop\source\repos\ProjetSportAP\APProjetSport\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\nludop\source\repos\ProjetSportAP\APProjetSport\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\nludop\source\repos\ProjetSportAP\APProjetSport\obj\Debug\APProjetSport.csproj.AssemblyReference.cache
+C:\Users\nludop\source\repos\ProjetSportAP\APProjetSport\obj\Debug\APProjetSport.csproj.SuggestedBindingRedirects.cache
+C:\Users\nludop\source\repos\ProjetSportAP\APProjetSport\obj\Debug\APProjetSport.exe.config
+C:\Users\nludop\source\repos\ProjetSportAP\APProjetSport\obj\Debug\APProjetSport.Form1.resources
+C:\Users\nludop\source\repos\ProjetSportAP\APProjetSport\obj\Debug\APProjetSport.Properties.Resources.resources
+C:\Users\nludop\source\repos\ProjetSportAP\APProjetSport\obj\Debug\APProjetSport.csproj.GenerateResource.cache
+C:\Users\nludop\source\repos\ProjetSportAP\APProjetSport\obj\Debug\APProjetSport.csproj.CoreCompileInputs.cache
+C:\Users\nludop\source\repos\ProjetSportAP\APProjetSport\obj\Debug\APProjet.2C0CC4B0.Up2Date
+C:\Users\nludop\source\repos\ProjetSportAP\APProjetSport\obj\Debug\APProjetSport.exe
+C:\Users\nludop\source\repos\ProjetSportAP\APProjetSport\obj\Debug\APProjetSport.pdb
+F:\AP à rendre 13-10-2026\ProjetSportAP\APProjetSport\bin\Debug\APProjetSport.exe.config
+F:\AP à rendre 13-10-2026\ProjetSportAP\APProjetSport\bin\Debug\APProjetSport.exe
+F:\AP à rendre 13-10-2026\ProjetSportAP\APProjetSport\bin\Debug\APProjetSport.pdb
+F:\AP à rendre 13-10-2026\ProjetSportAP\APProjetSport\bin\Debug\BiblioSportif.dll
+F:\AP à rendre 13-10-2026\ProjetSportAP\APProjetSport\bin\Debug\BouncyCastle.Cryptography.dll
+F:\AP à rendre 13-10-2026\ProjetSportAP\APProjetSport\bin\Debug\GestionSportif.dll
+F:\AP à rendre 13-10-2026\ProjetSportAP\APProjetSport\bin\Debug\Google.Protobuf.dll
+F:\AP à rendre 13-10-2026\ProjetSportAP\APProjetSport\bin\Debug\K4os.Compression.LZ4.dll
+F:\AP à rendre 13-10-2026\ProjetSportAP\APProjetSport\bin\Debug\K4os.Compression.LZ4.Streams.dll
+F:\AP à rendre 13-10-2026\ProjetSportAP\APProjetSport\bin\Debug\K4os.Hash.xxHash.dll
+F:\AP à rendre 13-10-2026\ProjetSportAP\APProjetSport\bin\Debug\MySql.Data.dll
+F:\AP à rendre 13-10-2026\ProjetSportAP\APProjetSport\bin\Debug\System.Buffers.dll
+F:\AP à rendre 13-10-2026\ProjetSportAP\APProjetSport\bin\Debug\System.Configuration.ConfigurationManager.dll
+F:\AP à rendre 13-10-2026\ProjetSportAP\APProjetSport\bin\Debug\System.IO.Pipelines.dll
+F:\AP à rendre 13-10-2026\ProjetSportAP\APProjetSport\bin\Debug\System.Memory.dll
+F:\AP à rendre 13-10-2026\ProjetSportAP\APProjetSport\bin\Debug\System.Numerics.Vectors.dll
+F:\AP à rendre 13-10-2026\ProjetSportAP\APProjetSport\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+F:\AP à rendre 13-10-2026\ProjetSportAP\APProjetSport\bin\Debug\System.Threading.Tasks.Extensions.dll
+F:\AP à rendre 13-10-2026\ProjetSportAP\APProjetSport\bin\Debug\ZstdSharp.dll
+F:\AP à rendre 13-10-2026\ProjetSportAP\APProjetSport\bin\Debug\BiblioSportif.pdb
+F:\AP à rendre 13-10-2026\ProjetSportAP\APProjetSport\bin\Debug\GestionSportif.pdb
+F:\AP à rendre 13-10-2026\ProjetSportAP\APProjetSport\bin\Debug\GestionSportif.dll.config
+F:\AP à rendre 13-10-2026\ProjetSportAP\APProjetSport\bin\Debug\BouncyCastle.Cryptography.xml
+F:\AP à rendre 13-10-2026\ProjetSportAP\APProjetSport\bin\Debug\Google.Protobuf.pdb
+F:\AP à rendre 13-10-2026\ProjetSportAP\APProjetSport\bin\Debug\Google.Protobuf.xml
+F:\AP à rendre 13-10-2026\ProjetSportAP\APProjetSport\bin\Debug\K4os.Compression.LZ4.xml
+F:\AP à rendre 13-10-2026\ProjetSportAP\APProjetSport\bin\Debug\K4os.Compression.LZ4.Streams.xml
+F:\AP à rendre 13-10-2026\ProjetSportAP\APProjetSport\bin\Debug\K4os.Hash.xxHash.xml
+F:\AP à rendre 13-10-2026\ProjetSportAP\APProjetSport\bin\Debug\MySql.Data.xml
+F:\AP à rendre 13-10-2026\ProjetSportAP\APProjetSport\bin\Debug\System.Buffers.xml
+F:\AP à rendre 13-10-2026\ProjetSportAP\APProjetSport\bin\Debug\System.Configuration.ConfigurationManager.xml
+F:\AP à rendre 13-10-2026\ProjetSportAP\APProjetSport\bin\Debug\System.IO.Pipelines.xml
+F:\AP à rendre 13-10-2026\ProjetSportAP\APProjetSport\bin\Debug\System.Memory.xml
+F:\AP à rendre 13-10-2026\ProjetSportAP\APProjetSport\bin\Debug\System.Numerics.Vectors.xml
+F:\AP à rendre 13-10-2026\ProjetSportAP\APProjetSport\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+F:\AP à rendre 13-10-2026\ProjetSportAP\APProjetSport\bin\Debug\System.Threading.Tasks.Extensions.xml
+F:\AP à rendre 13-10-2026\ProjetSportAP\APProjetSport\obj\Debug\APProjetSport.csproj.AssemblyReference.cache
+F:\AP à rendre 13-10-2026\ProjetSportAP\APProjetSport\obj\Debug\APProjetSport.csproj.SuggestedBindingRedirects.cache
+F:\AP à rendre 13-10-2026\ProjetSportAP\APProjetSport\obj\Debug\APProjetSport.exe.config
+F:\AP à rendre 13-10-2026\ProjetSportAP\APProjetSport\obj\Debug\APProjetSport.Form1.resources
+F:\AP à rendre 13-10-2026\ProjetSportAP\APProjetSport\obj\Debug\APProjetSport.Properties.Resources.resources
+F:\AP à rendre 13-10-2026\ProjetSportAP\APProjetSport\obj\Debug\APProjetSport.csproj.GenerateResource.cache
+F:\AP à rendre 13-10-2026\ProjetSportAP\APProjetSport\obj\Debug\APProjetSport.csproj.CoreCompileInputs.cache
+F:\AP à rendre 13-10-2026\ProjetSportAP\APProjetSport\obj\Debug\APProjet.2C0CC4B0.Up2Date
+F:\AP à rendre 13-10-2026\ProjetSportAP\APProjetSport\obj\Debug\APProjetSport.exe
+F:\AP à rendre 13-10-2026\ProjetSportAP\APProjetSport\obj\Debug\APProjetSport.pdb
+C:\Users\ludop\Desktop\ProjetSportAP\APProjetSport\bin\Debug\APProjetSport.exe.config
+C:\Users\ludop\Desktop\ProjetSportAP\APProjetSport\bin\Debug\APProjetSport.exe
+C:\Users\ludop\Desktop\ProjetSportAP\APProjetSport\bin\Debug\APProjetSport.pdb
+C:\Users\ludop\Desktop\ProjetSportAP\APProjetSport\bin\Debug\BiblioSportif.dll
+C:\Users\ludop\Desktop\ProjetSportAP\APProjetSport\bin\Debug\BouncyCastle.Cryptography.dll
+C:\Users\ludop\Desktop\ProjetSportAP\APProjetSport\bin\Debug\GestionSportif.dll
+C:\Users\ludop\Desktop\ProjetSportAP\APProjetSport\bin\Debug\Google.Protobuf.dll
+C:\Users\ludop\Desktop\ProjetSportAP\APProjetSport\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\ludop\Desktop\ProjetSportAP\APProjetSport\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\ludop\Desktop\ProjetSportAP\APProjetSport\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\ludop\Desktop\ProjetSportAP\APProjetSport\bin\Debug\MySql.Data.dll
+C:\Users\ludop\Desktop\ProjetSportAP\APProjetSport\bin\Debug\System.Buffers.dll
+C:\Users\ludop\Desktop\ProjetSportAP\APProjetSport\bin\Debug\System.Configuration.ConfigurationManager.dll
+C:\Users\ludop\Desktop\ProjetSportAP\APProjetSport\bin\Debug\System.IO.Pipelines.dll
+C:\Users\ludop\Desktop\ProjetSportAP\APProjetSport\bin\Debug\System.Memory.dll
+C:\Users\ludop\Desktop\ProjetSportAP\APProjetSport\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\ludop\Desktop\ProjetSportAP\APProjetSport\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\ludop\Desktop\ProjetSportAP\APProjetSport\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\ludop\Desktop\ProjetSportAP\APProjetSport\bin\Debug\ZstdSharp.dll
+C:\Users\ludop\Desktop\ProjetSportAP\APProjetSport\bin\Debug\BiblioSportif.pdb
+C:\Users\ludop\Desktop\ProjetSportAP\APProjetSport\bin\Debug\GestionSportif.pdb
+C:\Users\ludop\Desktop\ProjetSportAP\APProjetSport\bin\Debug\GestionSportif.dll.config
+C:\Users\ludop\Desktop\ProjetSportAP\APProjetSport\bin\Debug\BouncyCastle.Cryptography.xml
+C:\Users\ludop\Desktop\ProjetSportAP\APProjetSport\bin\Debug\Google.Protobuf.pdb
+C:\Users\ludop\Desktop\ProjetSportAP\APProjetSport\bin\Debug\Google.Protobuf.xml
+C:\Users\ludop\Desktop\ProjetSportAP\APProjetSport\bin\Debug\K4os.Compression.LZ4.xml
+C:\Users\ludop\Desktop\ProjetSportAP\APProjetSport\bin\Debug\K4os.Compression.LZ4.Streams.xml
+C:\Users\ludop\Desktop\ProjetSportAP\APProjetSport\bin\Debug\K4os.Hash.xxHash.xml
+C:\Users\ludop\Desktop\ProjetSportAP\APProjetSport\bin\Debug\MySql.Data.xml
+C:\Users\ludop\Desktop\ProjetSportAP\APProjetSport\bin\Debug\System.Buffers.xml
+C:\Users\ludop\Desktop\ProjetSportAP\APProjetSport\bin\Debug\System.Configuration.ConfigurationManager.xml
+C:\Users\ludop\Desktop\ProjetSportAP\APProjetSport\bin\Debug\System.IO.Pipelines.xml
+C:\Users\ludop\Desktop\ProjetSportAP\APProjetSport\bin\Debug\System.Memory.xml
+C:\Users\ludop\Desktop\ProjetSportAP\APProjetSport\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\ludop\Desktop\ProjetSportAP\APProjetSport\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\ludop\Desktop\ProjetSportAP\APProjetSport\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\ludop\Desktop\ProjetSportAP\APProjetSport\obj\Debug\APProjetSport.csproj.AssemblyReference.cache
+C:\Users\ludop\Desktop\ProjetSportAP\APProjetSport\obj\Debug\APProjetSport.csproj.SuggestedBindingRedirects.cache
+C:\Users\ludop\Desktop\ProjetSportAP\APProjetSport\obj\Debug\APProjetSport.exe.config
+C:\Users\ludop\Desktop\ProjetSportAP\APProjetSport\obj\Debug\APProjetSport.Properties.Resources.resources
+C:\Users\ludop\Desktop\ProjetSportAP\APProjetSport\obj\Debug\APProjetSport.csproj.GenerateResource.cache
+C:\Users\ludop\Desktop\ProjetSportAP\APProjetSport\obj\Debug\APProjetSport.csproj.CoreCompileInputs.cache
+C:\Users\ludop\Desktop\ProjetSportAP\APProjetSport\obj\Debug\APProjet.2C0CC4B0.Up2Date
+C:\Users\ludop\Desktop\ProjetSportAP\APProjetSport\obj\Debug\APProjetSport.exe
+C:\Users\ludop\Desktop\ProjetSportAP\APProjetSport\obj\Debug\APProjetSport.pdb
+C:\Users\ludop\Desktop\ProjetSportAP\APProjetSport\obj\Debug\APProjetSport.AGestion.resources

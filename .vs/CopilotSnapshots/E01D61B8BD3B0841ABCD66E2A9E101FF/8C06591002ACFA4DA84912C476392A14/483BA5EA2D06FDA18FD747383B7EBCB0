@@ -1,0 +1,43 @@
+﻿using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+
+namespace BiblioSportif
+{
+    public class Sportif
+    {
+        private int id;
+        private string nom;
+        private string prenom;
+        private DateTime dateNais;
+        private string rue;
+        private string ville;
+        private string codePostal;
+        private string nivExpercience;
+        private string nomSport;
+
+        public Sportif(int id, string nom, string prenom, DateTime dateNais, string rue, string ville, string codePostal, string nivExpercience, string nomSport)
+        {
+            this.id = id;
+            this.nom = nom;
+            this.prenom = prenom;
+            this.dateNais = dateNais;
+            this.rue = rue;
+            this.ville = ville;
+            this.codePostal = codePostal;
+            this.nivExpercience = nivExpercience;
+            this.nomSport = nomSport;
+        }
+
+        public int Id { get => id; set => id = value; }
+        public string Nom { get => nom; set => nom = value; }
+        public DateTime DateNais { get => dateNais; set => dateNais = value; }
+        public string Rue { get => rue; set => rue = value; }
+        public string Ville { get => ville; set => ville = value; }
+        public string CodePostal { get => codePostal; set => codePostal = value; }
+        public string NivExpercience { get => nivExpercience; set => nivExpercience = value; }
+        public string NomSport { get => nomSport; set => nomSport = value; }
+    }
+}
