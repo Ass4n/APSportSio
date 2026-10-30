@@ -6,8 +6,9 @@ namespace APProjetSport
 {
     public partial class FormConnexion : Form
     {
-        // Login de l'utilisateur connecté (lu par Program.cs après la fermeture du formulaire)
-        public string Login { get; private set; }
+        private string login;
+
+        public string Login { get => login; private set => login = value; }
 
         public FormConnexion()
         {

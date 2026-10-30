@@ -29,9 +29,7 @@ namespace APProjetSport
             loginConnecte = login;
         }
 
-        // =====================================================================
-        //  CHARGEMENT DU FORMULAIRE
-        // =====================================================================
+       
 
         private void Form1_Load(object sender, EventArgs e)
         {
@@ -316,7 +314,7 @@ namespace APProjetSport
             return true;
         }
 
-        // ---- AJOUTER ----
+       
         private void btnAjouter_Click(object sender, EventArgs e)
         {
             if (!ControlerSaisie())
@@ -383,7 +381,7 @@ namespace APProjetSport
             }
         }
 
-        // ---- SUPPRIMER ----
+        
         private void btnSupprimer_Click(object sender, EventArgs e)
         {
             if (sportifSelectionne == null)
@@ -420,9 +418,7 @@ namespace APProjetSport
             }
         }
 
-        // =====================================================================
-        //  ONGLET 2 : SPORTS PRATIQUÉS PAR LE SPORTIF SÉLECTIONNÉ
-        // =====================================================================
+        
 
         // Remplit la liste des sports pratiqués du sportif sélectionné
         // Le bloc est grisé tant qu'aucun sportif n'est sélectionné
@@ -489,7 +485,7 @@ namespace APProjetSport
             }
         }
 
-        // ---- AJOUTER UN SPORT PRATIQUÉ ----
+       
         private void btnAjouterPratique_Click(object sender, EventArgs e)
         {
             if (sportifSelectionne == null)
@@ -528,7 +524,7 @@ namespace APProjetSport
             }
         }
 
-        // ---- MODIFIER LE NIVEAU ----
+       
         private void btnModifierNiveau_Click(object sender, EventArgs e)
         {
             if (sportifSelectionne == null)
@@ -565,7 +561,7 @@ namespace APProjetSport
             }
         }
 
-        // ---- SUPPRIMER UN SPORT PRATIQUÉ ----
+        
         private void btnSupprimerPratique_Click(object sender, EventArgs e)
         {
             if (sportifSelectionne == null)

@@ -1,6 +1,6 @@
 USE BdSport;
 
--- À exécuter UNE SEULE FOIS (sinon les lignes seront en double)
+
 INSERT INTO Sportif (nom, prenom, dateNais, rue, CP, ville, nivExperience, nomSport) VALUES
 ('DUPONT',  'Emma',   '2001-04-12', '12 rue des Lilas',     '63000', 'Clermont-Ferrand', 'Avancé',        'Natation'),
 ('DAVOLIO', 'Jeanne', '1999-09-23', '5 avenue de la Gare',  '63100', 'Clermont-Ferrand', 'Avancé',        'Tennis'),

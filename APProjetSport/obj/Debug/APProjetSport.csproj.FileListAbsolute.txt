@@ -131,3 +131,6 @@ C:\Users\ludop\Desktop\ProjetSportAP\APProjetSport\obj\Debug\APProjet.2C0CC4B0.U
 C:\Users\ludop\Desktop\ProjetSportAP\APProjetSport\obj\Debug\APProjetSport.exe
 C:\Users\ludop\Desktop\ProjetSportAP\APProjetSport\obj\Debug\APProjetSport.pdb
 C:\Users\ludop\Desktop\ProjetSportAP\APProjetSport\obj\Debug\APProjetSport.AGestion.resources
+C:\Users\ludop\Desktop\ProjetSportAP\APProjetSport\obj\Debug\APProjetSport.FormChangementMdp.resources
+C:\Users\ludop\Desktop\ProjetSportAP\APProjetSport\obj\Debug\APProjetSport.FormConnexion.resources
+C:\Users\ludop\Desktop\ProjetSportAP\APProjetSport\obj\Debug\APProjetSport.FormConnexionCompte.resources
