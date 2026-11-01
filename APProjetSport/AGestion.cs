@@ -2,7 +2,6 @@ using BiblioSportif;
 using GestionSportif;
 using System;
 using System.Collections.Generic;
-using System.Text.RegularExpressions;
 using System.Windows.Forms;
 
 namespace APProjetSport
@@ -208,14 +207,14 @@ namespace APProjetSport
             {
                 Sportif sportif = (Sportif)listResultat.SelectedItems[0].Tag;
 
-                string message = $"Informations du sportif :\n\n" +
-                                 $"Nom : {sportif.Nom}\n" +
-                                 $"Prénom : {sportif.Prenom}\n" +
-                                 $"Date de naissance : {sportif.DateNais.ToShortDateString()}\n" +
-                                 $"Rue : {sportif.Rue}\n" +
-                                 $"Ville : {sportif.Ville}\n" +
-                                 $"Code postal : {sportif.CodePostal}\n\n" +
-                                 $"Sports pratiqués :\n";
+                string message = "Informations du sportif :\n\n" +
+                                 "Nom : " + sportif.Nom + "\n" +
+                                 "Prénom : " + sportif.Prenom + "\n" +
+                                 "Date de naissance : " + sportif.DateNais.ToShortDateString() + "\n" +
+                                 "Rue : " + sportif.Rue + "\n" +
+                                 "Ville : " + sportif.Ville + "\n" +
+                                 "Code postal : " + sportif.CodePostal + "\n\n" +
+                                 "Sports pratiqués :\n";
 
                 if (sportif.Pratiques.Count == 0)
                 {
@@ -274,6 +273,23 @@ namespace APProjetSport
             ViderFormulaire();
         }
 
+        // Un code postal français = exactement 5 chiffres
+        private bool CodePostalValide(string codePostal)
+        {
+            if (codePostal.Length != 5)
+            {
+                return false;
+            }
+            for (int i = 0; i < codePostal.Length; i++)
+            {
+                if (codePostal[i] < '0' || codePostal[i] > '9')
+                {
+                    return false;
+                }
+            }
+            return true;
+        }
+
         // Contrôle des données saisies : retourne true si tout est correct
         private bool ControlerSaisie()
         {
@@ -296,7 +312,7 @@ namespace APProjetSport
                 erreurs += "- La rue est obligatoire.\n";
             }
             // Un code postal français = exactement 5 chiffres
-            if (!Regex.IsMatch(txtCP.Text.Trim(), @"^\d{5}$"))
+            if (!CodePostalValide(txtCP.Text.Trim()))
             {
                 erreurs += "- Le code postal doit contenir exactement 5 chiffres.\n";
             }
@@ -421,7 +437,6 @@ namespace APProjetSport
         
 
         // Remplit la liste des sports pratiqués du sportif sélectionné
-        // Le bloc est grisé tant qu'aucun sportif n'est sélectionné
         private void AfficherPratiques()
         {
             listPratiques.Items.Clear();

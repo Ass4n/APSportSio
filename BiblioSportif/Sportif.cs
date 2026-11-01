@@ -14,7 +14,6 @@ namespace BiblioSportif
         private string codePostal;
         private List<Pratique> pratiques;
 
-       
         public Sportif(int id, string nom, string prenom, DateTime dateNais, string rue, string ville, string codePostal)
         {
             this.id = id;
@@ -49,7 +48,49 @@ namespace BiblioSportif
             return false;
         }
 
-     
+        // Ajoute une pratique en respectant la règle : un sport une seule fois
+        public void AjouterPratique(Pratique unePratique)
+        {
+            if (unePratique == null)
+            {
+                throw new Exception("La pratique est obligatoire.");
+            }
+            if (PratiqueSport(unePratique.Sport.Id))
+            {
+                throw new Exception("Ce sportif pratique déjà ce sport.");
+            }
+            pratiques.Add(unePratique);
+        }
+
+        public void ChangerNiveau(int idSport, Niveau nouveauNiveau)
+        {
+            bool trouve = false;
+            for (int i = 0; i < pratiques.Count; i++)
+            {
+                if (pratiques[i].Sport.Id == idSport)
+                {
+                    pratiques[i].ChangerNiveau(nouveauNiveau);
+                    trouve = true;
+                }
+            }
+            if (!trouve)
+            {
+                throw new Exception("Ce sportif ne pratique pas ce sport.");
+            }
+        }
+
+        public void SupprimerPratique(int idSport)
+        {
+            for (int i = 0; i < pratiques.Count; i++)
+            {
+                if (pratiques[i].Sport.Id == idSport)
+                {
+                    pratiques.RemoveAt(i);
+                    return;
+                }
+            }
+        }
+
         public string ResumeSports()
         {
             string resume = "";

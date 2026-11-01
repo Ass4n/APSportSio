@@ -3,8 +3,11 @@ namespace BiblioSportif
     // Un niveau d'expérience (table Experience)
     public class Niveau
     {
-        public int Id { get; set; }
-        public string Nom { get; set; }
+        private int id;
+        private string nom;
+
+        public int Id { get => id; set => id = value; }
+        public string Nom { get => nom; set => nom = value; }
 
         public Niveau(int id, string nom)
         {

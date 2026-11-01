@@ -1,3 +1,4 @@
+using System;
 
 namespace BiblioSportif
 {
@@ -14,6 +15,16 @@ namespace BiblioSportif
         {
             Sport = sport;
             Niveau = niveau;
+        }
+
+        // Change le niveau en vérifiant qu'il n'est pas vide
+        public void ChangerNiveau(Niveau nouveauNiveau)
+        {
+            if (nouveauNiveau == null)
+            {
+                throw new Exception("Le niveau est obligatoire.");
+            }
+            Niveau = nouveauNiveau;
         }
     }
 }
